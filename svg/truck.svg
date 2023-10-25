@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="81.12394mm"
+   height="63.461208mm"
+   viewBox="0 0 81.12394 63.461208"
+   version="1.1"
+   id="svg645"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="truck.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview647"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="196"
+     inkscape:cy="124.625"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs642" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.721929,-79.01516)"><g
+       id="g787"
+       transform="matrix(0.35277778,0,0,0.35277778,36.434641,76.256361)"><path
+         d="m 6.5625,60.4219 7.0421,0.0195 c 0.0907,-5.2239 2.6609,-9.3506 8.6576,-9.6783 7.6884,0.1145 9.3455,5.4536 9.3325,9.9043 l 3.5232,0.0014 6.1803,-5.1891 -0.0122,5.5097 42.8707,0.1057 0.0156,-6.281 3.2507,-0.0468 0.0939,6.391 7.3269,-0.0246"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path766" /><path
+         d="M 6.5625,60.4219 6.681,40.9164 c 0.0691,-1.5256 1.173,-2.4732 3.4506,-2.7499 L 33.3814,36.8541 33.7643,29.09 c 0.0556,-0.3081 0.7917,-0.8864 1.4241,-1.0287 l 1.1461,-0.2721 13.1176,-1.9024 0.1874,-10.6089 4.2664,-4.7041 2.7031,2.7198 -3.0722,3.2874 -0.0759,8.1969 9.8591,-7.5591 12.8483,0.0385 7.528,11.5892 h 0.8048 l 0.0045,15.5914 2.9877,0.0116 0.0669,-36.4532 148.8456,-0.1406 -0.0309,53.4033 -8.3662,-0.2345 c -3.3126,-10.4734 -14.2067,-7.5157 -16.4937,0 -4.3418,-11.1498 -14.7234,-6.9777 -16.7822,0 -3.1935,-10.1814 -14.5522,-8.2635 -16.3678,0 h -50.5279 c -3.0294,-10.2886 -14.1704,-7.8219 -16.4854,0 -1.5888,-6.8349 -12.6712,-11.2974 -16.5079,0.1092"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path768" /><path
+         d="m 6.5191,123.5052 v 64.1696 h 201.0002 v -64.1696 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path770" /><path
+         d="m 6.5191,118.5446 7.0421,0.0196 c 0.0907,-5.224 2.6609,-9.3507 8.6576,-9.6784 7.6884,0.1145 9.3455,5.4536 9.3325,9.9043 l 3.5232,0.001 6.1804,-5.1891 -0.0122,5.5097 42.8706,0.1057 0.0156,-6.281 3.2508,-0.0468 0.0938,6.391 7.327,-0.0246"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path772" /><path
+         d="M 6.5191,118.5446 6.6376,99.0391 c 0.0692,-1.5256 1.173,-2.4732 3.4506,-2.7499 l 23.2498,-1.3124 0.3829,-7.7641 c 0.0556,-0.3081 0.7918,-0.8864 1.4242,-1.0287 l 1.146,-0.2721 13.1176,-1.9024 0.1874,-10.6089 4.2664,-4.7041 2.7031,2.7198 -3.0722,3.2874 -0.0759,8.1969 9.8592,-7.5591 12.8483,0.0385 7.5279,11.5892 h 0.8048 l 0.0045,15.5914 2.9878,0.0116 0.0669,-36.4532 148.8455,-0.1406 -0.0309,53.4033 -8.3662,-0.2345 c -3.3125,-10.4734 -14.2067,-7.5157 -16.4936,0 -4.3419,-11.1498 -14.7235,-6.9777 -16.7823,0 -3.1935,-10.1814 -14.5522,-8.2635 -16.3678,0 h -50.5278 c -3.0294,-10.2886 -14.1704,-7.8219 -16.4855,0 -1.5888,-6.8349 -12.6711,-11.2974 -16.5078,0.1092"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path774" /></g></g></svg>

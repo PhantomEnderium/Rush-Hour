@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.228004mm"
+   height="60.619644mm"
+   viewBox="0 0 52.228004 60.619644"
+   version="1.1"
+   id="svg907"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="full-car.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview909"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6263806"
+     inkscape:cx="15.610837"
+     inkscape:cy="107.56248"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs904" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.517354,-46.457127)"><g
+       id="g1051"
+       transform="matrix(0.35277778,0,0,0.35277778,30.52986,46.469668)"><path
+         d="M 0,-1e-4 V 63.7666 H 122.277 V -1e-4 Z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path1028" /><g
+         id="Layer1000"><g
+           id="Layer1001"><path
+             d="M 17.2585,118.4724 H 7.6422 c 0,0 -4.6907,-0.1172 -5.1597,-0.9383 -2.0987,-0.8205 -1.8676,-5.1598 -1.0558,-5.1598 0.9773,-0.5079 1.4855,-1.0162 1.5248,-1.5244 l -1.2901,-5.0426 c 0.2509,0.1567 -0.6083,-9.1725 1.5244,-11.0235 6.7953,-5.8971 29.9041,-7.9743 31.8975,-8.6779 1.9937,-0.7037 5.8637,-2.3456 5.8637,-2.3456 0,0 6.9189,-6.8017 13.838,-10.6716 1.4367,-0.8034 6.5656,-3.7778 19.3496,-4.5736 10.3414,-0.6438 21.0805,-1.0491 28.4968,1.4072 7.0064,2.3206 16.4179,8.9126 20.4051,10.7889 3.9871,1.8762 4.8079,2.3455 6.9188,2.6973 2.1109,0.3518 5.1598,0 5.1598,0 l 4.5736,-0.469 c 0,0 3.0492,-0.1172 2.9317,2.4627 -0.1172,2.5799 1.0555,11.8443 1.8763,12.7826 0.8208,0.9383 3.1663,3.2835 3.0491,4.1043 -0.1171,0.8208 2.5799,12.4308 -4.2218,13.6034 -6.8016,1.1726 -17.9423,1.4072 -17.9423,1.4072 0,0 -1.1726,-8.9125 -9.1472,-9.6162 -7.9743,-0.7036 -11.6908,3.3623 -12.6651,10.437 l -20.874,0.1172 -44.5629,0.2347 c 0,0 1.197,-10.2739 -10.2027,-10.6717 -10.125,-0.3533 -10.6716,10.6717 -10.6716,10.6717 z"
+             style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+             id="path1030" /></g></g><g
+         id="Layer1002"><g
+           id="Layer1003"><path
+             d="M 16.6102,171.764 H 6.994 c 0,0 -4.6908,-0.1172 -5.1598,-0.9383 -2.0987,-0.8205 -1.8675,-5.1598 -1.0558,-5.1598 0.9773,-0.5079 1.4855,-1.0162 1.5248,-1.5244 l -1.2901,-5.0426 c 0.2509,0.1567 -0.6083,-9.1725 1.5244,-11.0235 6.7953,-5.8971 29.9041,-7.9743 31.8975,-8.6779 1.9938,-0.7036 5.8637,-2.3455 5.8637,-2.3455 0,0 6.9189,-6.8017 13.838,-10.6717 1.4367,-0.8034 6.5656,-3.7778 19.3496,-4.5736 10.3414,-0.6438 21.0805,-1.0491 28.4968,1.4072 7.0064,2.3206 16.4179,8.9126 20.4051,10.7889 3.9871,1.8762 4.8079,2.3455 6.9188,2.6973 2.1109,0.3519 5.1598,0 5.1598,0 l 4.5736,-0.469 c 0,0 3.0492,-0.1171 2.9317,2.4628 -0.1171,2.5798 1.0555,11.8442 1.8763,12.7825 0.8208,0.9383 3.1663,3.2835 3.0492,4.1043 -0.1172,0.8208 2.5798,12.4308 -4.2218,13.6034 -6.8017,1.1726 -17.9424,1.4073 -17.9424,1.4073 0,0 -1.1726,-8.9126 -9.1472,-9.6162 -7.9743,-0.7037 -11.6907,3.3623 -12.6651,10.437 l -20.874,0.1171 -44.5629,0.2347 c 0,0 1.1971,-10.2739 -10.2027,-10.6717 -10.125,-0.3532 -10.6716,10.6717 -10.6716,10.6717 z"
+             style="fill:none;stroke:#ff0000;stroke-width:0.0709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+             id="path1034" /></g></g></g></g></svg>
