@@ -12,5 +12,3 @@ A laser cut reconstruction of the classic traffic jam logic game by Joseph Minni
 - Material: Acrylic
 - 60% Power (in advanced settings)
 - 10% Speed (in advanced settings)
-## Tom's Edit
-This fork was made to add .svg files, which is what the Glowforge family of laser cutters use. Also testing webhook integration for Discord.
